@@ -1,0 +1,1 @@
+This is a basic encrypter inspired by show "Elementary".I think this will work only in mac osx as it uses the mac enxtended ascii. Want to add a chatting service that uses this encryption. Need to create a decryptor too.
